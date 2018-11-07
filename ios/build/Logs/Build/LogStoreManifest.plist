@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>F2C5B8A3-7F39-4C7C-9964-BD601AC10B9A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F2C5B8A3-7F39-4C7C-9964-BD601AC10B9A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>loginGoogle project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>loginGoogle</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project loginGoogle with scheme loginGoogle and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>563207610.87617803</real>
+			<key>timeStoppedRecording</key>
+			<real>563208153.99045897</real>
+			<key>title</key>
+			<string>Building project loginGoogle with scheme loginGoogle and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F2C5B8A3-7F39-4C7C-9964-BD601AC10B9A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
